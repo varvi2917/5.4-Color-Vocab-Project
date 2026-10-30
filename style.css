@@ -1,0 +1,32 @@
+
+/* 1. Style each color title according to its meaning */
+#red {
+    color: red;
+}
+
+#blue {
+    color: blue;
+}
+
+#orange {
+    color: orange;
+}
+
+#green {
+    color: green;
+}
+
+#yellow {
+    color: yellow;
+}
+
+
+.color-title {
+    font-weight: normal;
+}
+
+
+img {
+    height: 200px;
+    width: 200px;
+}
